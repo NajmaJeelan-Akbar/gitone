@@ -10,7 +10,7 @@
 export default {
   data:function(){
     return{
-      status:'critical'
+      status:'very-critical'
     }
     },
     methods:{
